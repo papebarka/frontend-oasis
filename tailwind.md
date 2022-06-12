@@ -46,6 +46,8 @@ These are some awesome user interface (UI) kit for Tailwind CSS.
 
 [Myna UI](https://mynaui.com/)
 
+[Tailwind E-Commerce](https://tailwind-ecommerce.com/)
+
 
 ### Paid UI Kit
 
