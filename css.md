@@ -26,6 +26,8 @@
 
 -[UIKit](https://getuikit.com/) - CSS UI Kits for web interfaces
 
+-[Semantic UI](https://semantic-ui.com/)
+
 ### Tools
 
 -[CSS Grid Generator](https://cssgrid-generator.netlify.app/) - CSS grids generator
