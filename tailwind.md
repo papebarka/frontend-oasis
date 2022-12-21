@@ -18,11 +18,15 @@
 
 These are some awesome user interface (UI) kit for Tailwind CSS.
 
+[Tailwind Kit](https://www.tailwind-kit.com/)
+
 [WickedBlocks](https://wickedblocks.dev/)
 
 [HyperUI](https://hyperui.dev)
 
 [Lo-FI UI](https://lofiui.co/)
+
+[Tailwind Stamp](https://tailwindcss.5balloons.info/)
 
 [Preline](https://preline.co)
 
@@ -48,6 +52,11 @@ These are some awesome user interface (UI) kit for Tailwind CSS.
 
 [Tailwind E-Commerce](https://tailwind-ecommerce.com/)
 
+[FlowBite](https://flowbite.com/) - Free Version
+
+[Lowfi UI](https://codepen.io/collection/DqLkab?grid_type=grid&cursor=eyJjb2xsZWN0aW9uX2lkIjoiRHFMa2FiIiwiY29sbGVjdGlvbl90b2tlbiI6bnVsbCwibGltaXQiOjQsIm1heF9pdGVtcyI6MzMsIm9mZnNldCI6MTYsInBhZ2UiOjUsInNvcnRfYnkiOiJwb3NpdGlvbiIsInNvcnRfb3JkZXIiOiJBc2MifQ==)
+
+[TailBlocks](https://tailblocks.cc/)
 
 ### Paid UI Kit
 
