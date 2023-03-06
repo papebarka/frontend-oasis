@@ -26,6 +26,8 @@ These are some awesome user interface (UI) kit for Tailwind CSS.
 
 [Lo-FI UI](https://lofiui.co/)
 
+[Phantom UI](https://phantomui.com/)
+
 [Tailwind Stamp](https://tailwindcss.5balloons.info/)
 
 [Preline](https://preline.co)
