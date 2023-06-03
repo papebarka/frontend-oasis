@@ -8,9 +8,15 @@
 
 - [Animate.JS](https://animejs.com/) - Lightweight JavaScript Animation
 
+- [MoJS](https://mojs.github.io/)
+
 ### Transition
 
 - [BarbaJS](https://barba.js.org/)
+
+### Scroll
+
+- [Lenis](https://github.com/studio-freight/lenis)
 
 ### Micro-Interaction
 
